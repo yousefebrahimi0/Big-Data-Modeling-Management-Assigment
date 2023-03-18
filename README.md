@@ -30,3 +30,5 @@ Explore the database via python neo4j connector and/or the graphical tool in the
         Which user is the most influential when it comes to reviews made?
     If you had to pick 3 beers to recommend using only this database, which would you pick and why? (Justify your answer well!) [Hint: database has NaN values]
     Questions 8 to 10 are somewhat open, which means we'll also be evaluating the reasoning behind your answer. So there aren't necessarily bad results there are only wrong criteria, explanations or execution. 
+
+#### Licence: Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND 4.0)
